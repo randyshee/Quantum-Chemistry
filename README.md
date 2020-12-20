@@ -1,4 +1,4 @@
-# Quantum-Chemistry
+# Quantum Chemistry
 Please see my projects about simulation of molecules with quantum simulators and quantum computers in the folders!
 
 ## Notable Results:
