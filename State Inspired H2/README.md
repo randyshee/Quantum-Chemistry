@@ -12,6 +12,6 @@ I could thus design a quantum circuit (image below) that satifies that equation 
 
 Result showed that all the energy on the potential energy surfaces obtained from the State Inpired and the UCCSD Ansatz was found to reach the chemical accuracy (1 kcal/mol) on a quantum simulator. However, the State Inpired Ansatz has a much lower depth than the UCCSD Ansatz so the State Inpired Ansatz would be able to reach a better accuracy in a real quantum device.
 
-| *Potential Energy Surface of Hydrogen Molecule* | *Error Comparison between State Inpsired and UCCSD Ansatz* |
+| *Potential Energy Surface of H<sub>2* | *Error of the Energy obtained from the State Inpsired <br /> and the UCCSD Ansatz* |
 |------------|-------------|
 | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/Potential%20Energy%20Surface.png" width="500"> | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/Error%20Comparison.png" width="500"> |
