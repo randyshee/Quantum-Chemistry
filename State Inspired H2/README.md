@@ -15,6 +15,3 @@ Result showed that all the energy on the potential energy surfaces obtained from
 | *Potential Energy Surface of Hydrogen Molecule* | *Error Comparison between State Inpsired and UCCSD Ansatz* |
 |------------|-------------|
 | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/Potential%20Energy%20Surface.png" width="500"> | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/Error%20Comparison.png" width="500"> |
-
-<center>This text will be centered.
-<p>So will this paragraph.</p></center>
