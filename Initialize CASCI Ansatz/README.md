@@ -10,8 +10,8 @@ finals states would always be physical states (fixed numbers of electrons) unlik
 |-------------------------|
 | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/Initialize%20CASCI%20Ansatz/Image/4%20Qubit%20Initialize%20Ansatz.png" width="1000">|
 
-Potential energy surfaces of H<sub>2</sub> and LiH using the UCCSD or the Initialize CASCI Ansatz and their error comparing to the exact energy.
-Notice that LiH uses 6 qubits so this method is a generalized method and could possibly scale up if the costs for state preparation decrease.
+Potential energy surfaces of H<sub>2</sub> and LiH using the UCCSD or the Initialize CASCI Ansatz and their error comparing to the exact energy 
+(chemical accuracy is 1 kcal/mol). Notice that LiH uses 6 qubits so this method is a generalized method and could possibly scale up if the costs for state preparation decrease.
 
 | *Potential Energy Surface of H<sub>2* | *Error of the Energy obtained from the Initilize CASCI <br /> and the UCCSD Ansatz for H<sub>2* |
 |------------|-------------|
