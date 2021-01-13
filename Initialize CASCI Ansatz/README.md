@@ -4,7 +4,8 @@ As a followup of the [State Inpired Ansatz of H<sub>2](https://github.com/randys
 single excitations were also considered in this project. I prepared the Ansatz directly from the state vectors and produce the quantum 
 circuits using the Qiskit Initializer so that this kind of Ansatz can be used as a complete active space configuration interaction (CASCI) 
 Ansatz and had shorter depth than UCCSD Ansatz. On the other hand, since these states were directly prepared from the state vectors so the 
-finals states would always be physical states (fixed numbers of electrons) unlike hardware-inspired Ansatz where the final states could be non-physical.
+finals states would always be physical (fixed numbers of electrons or particle conserving) states unlike hardware-inspired Ansatz where the 
+  final states could be non-physical.
 
 | *4 Qubit CASCI Ansatz for H<sub>2* |
 |-------------------------|
