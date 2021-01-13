@@ -7,7 +7,7 @@ Please see my projects about simulation of molecules with quantum simulators and
 |------------|-------------|
 | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/State%20Inspired%20Ansatz.png" width="500"> | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/State%20Inspired%20H2/Image/Potential%20Energy%20Surface.png" width="500"> |
 
-### [2. Initialize CASCI Ansatz](https://github.com/randyshee/Quantum-Chemistry/tree/main/Initialize%20CASCI%20Ansatz) <br /> (a systematic way of preparing physical CASCI Ansatz from state vectors using the Qiskit Initializer)
+### [2. Initialize CASCI Ansatz](https://github.com/randyshee/Quantum-Chemistry/tree/main/Initialize%20CASCI%20Ansatz) <br /> (a systematic way of preparing particle-conserving CASCI Ansatz from state vectors using the Qiskit Initializer)
 | *Potential Energy Surface of H<sub>2* | *Error of the Energy obtained from the Initilize <br /> CASCI and the UCCSD Ansatz for H<sub>2* |
 |------------|-------------|
 | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/Initialize%20CASCI%20Ansatz/Image/H2%20PES.png" width="500"> | <img src="https://github.com/randyshee/Quantum-Chemistry/blob/main/Initialize%20CASCI%20Ansatz/Image/H2%20Error.png" width="500"> |
